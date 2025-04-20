@@ -1,0 +1,9 @@
+{
+    "python.languageServer": "None",
+    "git.openRepositoryInParentFolders": "never",
+    "git.autoRepositoryDetection": false,
+    "git.detectSubmodules": false,
+    "git.scanRepositories": [
+        "d:\\GitProjects\\minimal_langmanus_demo"
+    ]
+}

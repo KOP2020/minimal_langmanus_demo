@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "langmanus",
+			"name": "langmanus"
+		},
+		{
+			"path": "minimal_langmanus_demo",
+			"name": "minimal_langmanus_demo"
+		}
+	],
+	"settings": {
+		"git.openRepositoryInParentFolders": "never",
+		"git.autoRepositoryDetection": "openEditors",
+		"scm.alwaysShowRepositories": false,
+		"git.detectSubmodulesLimit": 0,
+		"workbench.editor.showTabs": "multiple",
+		"window.title": "${activeEditorShort}${separator}${rootName}"
+	}
+}
